@@ -38,6 +38,10 @@ a {
   text-decoration: none;
 }
 
+p {
+  font-size: 1.1rem;
+}
+
 .computer {
   padding: 30px;
 }
